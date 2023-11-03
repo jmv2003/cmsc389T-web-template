@@ -1,6 +1,7 @@
 # cmsc388T-web-template
 
 Github: https://jmv2003.github.io/cmsc389T-web-template/
+
 Terpconnect: https://terpconnect.umd.edu/~jventur6/cmsc389T-web-template/
 
 ## Color Family
