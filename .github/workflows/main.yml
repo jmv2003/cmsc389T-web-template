@@ -15,4 +15,5 @@ jobs:
           port: ${{ secrets.PORT }}
           key: ${{ secrets.PRIVATE_KEY }}
           script: |
+            pwd
             git clone git@github.com:jmv2003/cmsc389T-web-template.git
